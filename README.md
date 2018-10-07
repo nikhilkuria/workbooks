@@ -7,5 +7,8 @@ To start, create a virtual env
 `pip install jupyter`
 `pip install jupyterlab`
 
+# install other libraries
+`pip install -r requirements.txt`
+
 # start jupyterlab
 `jupyter lab`

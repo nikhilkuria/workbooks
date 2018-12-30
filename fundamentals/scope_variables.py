@@ -11,6 +11,17 @@ Use the `global` keyword to modify a global variable in a method.
 
 ## Nonlocal keyword
 The `nonlocal` keyword is used to modify a variable in the outer scope. ex: nested functions
+
+## Looking up variables in python
+Look up follows the order LEGB
+L - Plain old local scope
+E - Enclosing (parent)
+G - Global
+B - Build in
+
+## Interesting links
+https://medium.com/@dannymcwaves/a-python-tutorial-to-understanding-scopes-and-closures-c6a3d3ba0937
+
 """
 
 # The global variables
